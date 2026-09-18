@@ -57,3 +57,17 @@
 .wa-icon{background:#159447}.ig-icon{background:#9b3ca3}.fb-icon{background:#2864aa}
 .contact-arrow{font-size:25px;font-weight:800;color:var(--accent)}
 @media(max-width:850px){.contact-grid{grid-template-columns:1fr}.contact-section h2{font-size:36px}}
+
+
+/* Usos */
+.uses-section{padding:78px 0;background:var(--paper)}
+.uses-section h2{font-size:46px;line-height:1.05;margin:8px 0 16px;max-width:720px}
+.uses-lead{font-size:20px;line-height:1.65;color:var(--muted);max-width:850px;margin:0 0 34px}
+.uses-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.use-card{background:#fff;border-radius:16px;padding:28px;min-height:205px;box-shadow:0 4px 18px #0000000d}
+.use-card span{display:block;font-size:30px;color:var(--accent);margin-bottom:18px}
+.use-card b{display:block;font-size:20px;margin-bottom:10px}
+.use-card small{font-size:15px;line-height:1.55;color:var(--muted)}
+.uses-close{font-size:20px;line-height:1.6;text-align:center;max-width:900px;margin:40px auto 0}
+@media(max-width:850px){.uses-grid{grid-template-columns:1fr 1fr}.uses-section h2{font-size:38px}}
+@media(max-width:560px){.uses-grid{grid-template-columns:1fr}.use-card{min-height:auto}}
