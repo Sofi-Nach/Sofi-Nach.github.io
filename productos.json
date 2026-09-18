@@ -3,271 +3,271 @@
     "id": "SN-01",
     "color": "Natural",
     "image": "imagenes/SN-01.jpg",
-    "name": "Modelo SN-01",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Mosaico Rústico",
+    "medidas": "40 × 40 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-02",
     "color": "Natural",
     "image": "imagenes/SN-02.jpg",
-    "name": "Modelo SN-02",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Moderna",
+    "medidas": "40 × 40 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-03",
-    "color": "Natural",
+    "color": "Marrón",
     "image": "imagenes/SN-03.jpg",
-    "name": "Modelo SN-03",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Madera Rústica",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-04",
     "color": "Natural",
     "image": "imagenes/SN-04.jpg",
-    "name": "Modelo SN-04",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Madera Natural",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-05",
     "color": "Natural",
     "image": "imagenes/SN-05.jpg",
-    "name": "Modelo SN-05",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Adoquín Clásico",
+    "medidas": "20 × 10 cm",
+    "espesor": "4 cm",
+    "terminacion": "Lisa",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-06",
     "color": "Natural",
     "image": "imagenes/SN-06.jpg",
-    "name": "Modelo SN-06",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Bastón Lineal",
+    "medidas": "20 × 20 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve tipo bastones",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-07",
     "color": "Natural",
     "image": "imagenes/SN-07.jpg",
-    "name": "Modelo SN-07",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Raviol 9",
+    "medidas": "20 × 20 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Raviol de 9 panes",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-08",
     "color": "Natural",
     "image": "imagenes/SN-08.jpg",
-    "name": "Modelo SN-08",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Adoquín Rústico",
+    "medidas": "20 × 10 cm aprox.",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo adoquín",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-09",
     "color": "Natural",
     "image": "imagenes/SN-09.jpg",
-    "name": "Modelo SN-09",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Arcos",
+    "medidas": "40 × 40 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Diseño geométrico en relieve con arcos tipo adoquín",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-10",
     "color": "Natural",
     "image": "imagenes/SN-10.jpg",
-    "name": "Modelo SN-10",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Listón Rústico",
+    "medidas": "20 × 8 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-11",
     "color": "Natural",
     "image": "imagenes/SN-11.jpg",
-    "name": "Modelo SN-11",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Taco Madera",
+    "medidas": "12 × 8 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-12",
     "color": "Natural",
     "image": "imagenes/SN-12.jpg",
-    "name": "Modelo SN-12",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Listón Veta",
+    "medidas": "20 × 8 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo madera — veta longitudinal",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-13",
     "color": "Natural",
     "image": "imagenes/SN-13.jpg",
-    "name": "Modelo SN-13",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Ladrillo Rústico",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve tipo ladrillo a la vista",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-14",
     "color": "Natural",
     "image": "imagenes/SN-14.jpg",
-    "name": "Modelo SN-14",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Tablón Madera",
+    "medidas": "70 × 30 cm",
+    "espesor": "4 cm con malla",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-15",
     "color": "Natural",
     "image": "imagenes/SN-15.jpg",
-    "name": "Modelo SN-15",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Guarda Piedra",
+    "medidas": "40 × 6 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-16",
     "color": "Natural",
     "image": "imagenes/SN-16.jpg",
-    "name": "Modelo SN-16",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Muro",
+    "medidas": "40 × 40 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-17",
     "color": "Natural",
     "image": "imagenes/SN-17.jpg",
-    "name": "Modelo SN-17",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Campo",
+    "medidas": "40 × 40 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo piedra irregular",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-18",
     "color": "Natural",
     "image": "imagenes/SN-18.jpg",
-    "name": "Modelo SN-18",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Colonial",
+    "medidas": "40 × 40 cm",
+    "espesor": "6 cm",
+    "terminacion": "Relieve rústico tipo piedra rectangular",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-19",
     "color": "Natural",
     "image": "imagenes/SN-19.jpg",
-    "name": "Modelo SN-19",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Serrana",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-20",
     "color": "Natural",
     "image": "imagenes/SN-20.jpg",
-    "name": "Modelo SN-20",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Tablón Rústico",
+    "medidas": "80 × 9 cm",
+    "espesor": "2 cm",
+    "terminacion": "Relieve rústico tipo madera con botones/detalles de fijación",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-21",
     "color": "Natural",
     "image": "imagenes/SN-21.jpg",
-    "name": "Modelo SN-21",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Lineal",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve lineal rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-23",
     "color": "Natural",
     "image": "imagenes/SN-23.jpg",
-    "name": "Modelo SN-23",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Bloque Liso",
+    "medidas": "25 × 50 cm",
+    "espesor": "8 cm",
+    "terminacion": "Superficie lisa con bordes suavemente redondeados",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-24",
     "color": "Natural",
     "image": "imagenes/SN-24.jpg",
-    "name": "Modelo SN-24",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Piedra Muro",
+    "medidas": "30 × 30 cm",
+    "espesor": "3 cm",
+    "terminacion": "Relieve rústico tipo piedra apilada",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-25",
     "color": "Natural",
     "image": "imagenes/SN-25.jpg",
-    "name": "Modelo SN-25",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Madera Doble Tablón",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo madera, diseño de dos tablones",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-26",
     "color": "Natural",
     "image": "imagenes/SN-26.jpg",
-    "name": "Modelo SN-26",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Trenza Rústica",
+    "medidas": "50 × 15 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo trenza",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-27",
     "color": "Natural",
     "image": "imagenes/SN-27.jpg",
-    "name": "Modelo SN-27",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Tronco Rústico",
+    "medidas": "14 × 50 cm",
+    "espesor": "2 cm",
+    "terminacion": "Relieve rústico tipo tronco",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-28",
     "color": "Natural",
     "image": "imagenes/SN-28.jpg",
-    "name": "Modelo SN-28",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
+    "name": "Madera Nudo Central",
+    "medidas": "27 × 50 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-29",
