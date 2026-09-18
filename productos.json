@@ -210,16 +210,6 @@
     "uso": "Consultar"
   },
   {
-    "id": "SN-22",
-    "color": "Natural",
-    "image": "imagenes/SN-22.jpg",
-    "name": "Modelo SN-22",
-    "medidas": "Consultar ficha",
-    "espesor": "Consultar ficha",
-    "terminacion": "Hormigón texturado",
-    "uso": "Consultar"
-  },
-  {
     "id": "SN-23",
     "color": "Natural",
     "image": "imagenes/SN-23.jpg",
@@ -288,16 +278,6 @@
     "espesor": "3 cm",
     "terminacion": "Relieve rústico tipo piedra",
     "uso": "Revestimientos y decoración"
-  },
-  {
-    "id": "SN-30",
-    "color": "Natural",
-    "image": "imagenes/SN-30.jpg",
-    "name": "Tablón Largo con Bulones",
-    "medidas": "125 × 15 cm",
-    "espesor": "2 cm reforzado",
-    "terminacion": "Relieve rústico tipo madera con bulones",
-    "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
     "id": "SN-31",
