@@ -1,0 +1,7 @@
+1) Descomprimí la carpeta.
+2) Abrí index.html.
+3) Botón VER CATÁLOGO abre catalogo.html.
+4) Ver más abre la ficha del producto.
+5) WhatsApp abre una consulta con el código y nombre del producto.
+
+Las fotos SN-01 a SN-34 fueron preparadas desde las fotos B_1 a B_34 disponibles en la conversación.

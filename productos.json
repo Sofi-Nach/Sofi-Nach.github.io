@@ -1,0 +1,342 @@
+[
+  {
+    "id": "SN-01",
+    "color": "Natural",
+    "image": "imagenes/SN-01.jpg",
+    "name": "Modelo SN-01",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-02",
+    "color": "Natural",
+    "image": "imagenes/SN-02.jpg",
+    "name": "Modelo SN-02",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-03",
+    "color": "Natural",
+    "image": "imagenes/SN-03.jpg",
+    "name": "Modelo SN-03",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-04",
+    "color": "Natural",
+    "image": "imagenes/SN-04.jpg",
+    "name": "Modelo SN-04",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-05",
+    "color": "Natural",
+    "image": "imagenes/SN-05.jpg",
+    "name": "Modelo SN-05",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-06",
+    "color": "Natural",
+    "image": "imagenes/SN-06.jpg",
+    "name": "Modelo SN-06",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-07",
+    "color": "Natural",
+    "image": "imagenes/SN-07.jpg",
+    "name": "Modelo SN-07",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-08",
+    "color": "Natural",
+    "image": "imagenes/SN-08.jpg",
+    "name": "Modelo SN-08",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-09",
+    "color": "Natural",
+    "image": "imagenes/SN-09.jpg",
+    "name": "Modelo SN-09",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-10",
+    "color": "Natural",
+    "image": "imagenes/SN-10.jpg",
+    "name": "Modelo SN-10",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-11",
+    "color": "Natural",
+    "image": "imagenes/SN-11.jpg",
+    "name": "Modelo SN-11",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-12",
+    "color": "Natural",
+    "image": "imagenes/SN-12.jpg",
+    "name": "Modelo SN-12",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-13",
+    "color": "Natural",
+    "image": "imagenes/SN-13.jpg",
+    "name": "Modelo SN-13",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-14",
+    "color": "Natural",
+    "image": "imagenes/SN-14.jpg",
+    "name": "Modelo SN-14",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-15",
+    "color": "Natural",
+    "image": "imagenes/SN-15.jpg",
+    "name": "Modelo SN-15",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-16",
+    "color": "Natural",
+    "image": "imagenes/SN-16.jpg",
+    "name": "Modelo SN-16",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-17",
+    "color": "Natural",
+    "image": "imagenes/SN-17.jpg",
+    "name": "Modelo SN-17",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-18",
+    "color": "Natural",
+    "image": "imagenes/SN-18.jpg",
+    "name": "Modelo SN-18",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-19",
+    "color": "Natural",
+    "image": "imagenes/SN-19.jpg",
+    "name": "Modelo SN-19",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-20",
+    "color": "Natural",
+    "image": "imagenes/SN-20.jpg",
+    "name": "Modelo SN-20",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-21",
+    "color": "Natural",
+    "image": "imagenes/SN-21.jpg",
+    "name": "Modelo SN-21",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-22",
+    "color": "Natural",
+    "image": "imagenes/SN-22.jpg",
+    "name": "Modelo SN-22",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-23",
+    "color": "Natural",
+    "image": "imagenes/SN-23.jpg",
+    "name": "Modelo SN-23",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-24",
+    "color": "Natural",
+    "image": "imagenes/SN-24.jpg",
+    "name": "Modelo SN-24",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-25",
+    "color": "Natural",
+    "image": "imagenes/SN-25.jpg",
+    "name": "Modelo SN-25",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-26",
+    "color": "Natural",
+    "image": "imagenes/SN-26.jpg",
+    "name": "Modelo SN-26",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-27",
+    "color": "Natural",
+    "image": "imagenes/SN-27.jpg",
+    "name": "Modelo SN-27",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-28",
+    "color": "Natural",
+    "image": "imagenes/SN-28.jpg",
+    "name": "Modelo SN-28",
+    "medidas": "Consultar ficha",
+    "espesor": "Consultar ficha",
+    "terminacion": "Hormigón texturado",
+    "uso": "Consultar"
+  },
+  {
+    "id": "SN-29",
+    "color": "Natural",
+    "image": "imagenes/SN-29.jpg",
+    "name": "Piedra Pirca",
+    "medidas": "40 × 15 cm",
+    "espesor": "3 cm",
+    "terminacion": "Relieve rústico tipo piedra",
+    "uso": "Revestimientos y decoración"
+  },
+  {
+    "id": "SN-30",
+    "color": "Natural",
+    "image": "imagenes/SN-30.jpg",
+    "name": "Tablón Largo con Bulones",
+    "medidas": "125 × 15 cm",
+    "espesor": "2 cm reforzado",
+    "terminacion": "Relieve rústico tipo madera con bulones",
+    "uso": "Veredas, patios, barbacoas y jardines"
+  },
+  {
+    "id": "SN-31",
+    "color": "Natural",
+    "image": "imagenes/SN-31.jpg",
+    "name": "Adoquín Colonial 50",
+    "medidas": "50 × 50 cm",
+    "espesor": "4 cm",
+    "terminacion": "Relieve rústico tipo piedra / adoquinado",
+    "uso": "Veredas, patios y jardines"
+  },
+  {
+    "id": "SN-32",
+    "color": "Natural",
+    "image": "imagenes/SN-32.jpg",
+    "name": "Baldosa Podotáctil Botones",
+    "medidas": "40 × 40 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Botones en relieve antideslizantes",
+    "uso": "Veredas, accesos y senderos"
+  },
+  {
+    "id": "SN-33",
+    "color": "Natural",
+    "image": "imagenes/SN-33.jpg",
+    "name": "Baldosa Lisa Reforzada 50×50",
+    "medidas": "50 × 50 cm",
+    "espesor": "6 cm",
+    "terminacion": "Lisa",
+    "uso": "Veredas, patios, barbacoas y jardines"
+  },
+  {
+    "id": "SN-34",
+    "color": "Natural",
+    "image": "imagenes/SN-34.jpg",
+    "name": "Baldosa Adoquín Rústico 40×40",
+    "medidas": "40 × 40 cm",
+    "espesor": "2,5 cm",
+    "terminacion": "Relieve rústico tipo adoquín",
+    "uso": "Veredas, patios, barbacoas y jardines"
+  }
+]
