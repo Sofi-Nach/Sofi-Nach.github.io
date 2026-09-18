@@ -4,3 +4,23 @@
 
 /* Fachada Sofi_Nach */
 .hero-content{padding-top:40px;padding-bottom:40px}.eyebrow{display:inline-block;font-size:12px;font-weight:900;letter-spacing:2.5px;margin-bottom:18px}.hero-actions{display:flex;gap:12px;flex-wrap:wrap}.btn-outline{background:transparent;border:2px solid #fff}.benefit{display:flex;flex-direction:column;gap:8px}.benefit span{font-size:28px}.benefit small{color:var(--muted);line-height:1.45}.about{background:#fff;padding:70px 0}.about-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:70px;align-items:center}.about h2,.cta-box h2{font-size:44px;margin:8px 0}.about p{font-size:19px;line-height:1.7;color:var(--muted);margin:0 0 18px}.eyebrow.dark{color:var(--accent)}.text-link{font-weight:900;color:var(--accent)}.cta-section{padding:55px 0}.cta-box{background:var(--dark);color:#fff;border-radius:18px;padding:38px 42px;display:flex;justify-content:space-between;align-items:center;gap:30px}.cta-box small{letter-spacing:2px}.footer-grid{display:grid!important;grid-template-columns:2fr 1fr 1fr;align-items:start}.footer-grid div{display:flex;flex-direction:column;gap:8px}.footer-grid strong{font-size:26px}.footer-grid small{color:#ccc}@media(max-width:850px){.about-grid{grid-template-columns:1fr;gap:20px}.cta-box{align-items:flex-start;flex-direction:column}.footer-grid{grid-template-columns:1fr!important}.hero-actions{flex-direction:column;align-items:flex-start}.hero-actions .btn{width:100%;max-width:360px;text-align:center}}
+
+
+/* Corrección fachada: fondo sobrio del afiche, sin baldosa gigante */
+.hero-fachada{
+  min-height:650px;
+  background:
+    linear-gradient(115deg,rgba(35,35,35,.97) 0%,rgba(58,58,58,.94) 48%,rgba(85,85,85,.86) 100%);
+  position:relative;
+  overflow:hidden;
+}
+.hero-fachada:after{
+  content:"";
+  position:absolute;right:-110px;bottom:-180px;width:520px;height:520px;
+  border:1px solid rgba(255,255,255,.09);border-radius:50%;
+  box-shadow:0 0 0 80px rgba(255,255,255,.025),0 0 0 160px rgba(255,255,255,.018);
+}
+.hero-fachada .hero-content{position:relative;z-index:1}
+.hero-fachada .btn{background:var(--accent);border:2px solid var(--accent);box-shadow:0 5px 18px rgba(0,0,0,.28)}
+.hero-fachada .btn-outline{background:#fff;color:var(--dark);border:2px solid #fff}
+.hero-fachada .btn:hover{transform:translateY(-2px)}
