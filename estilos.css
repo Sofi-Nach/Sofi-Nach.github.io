@@ -24,3 +24,21 @@
 .hero-fachada .btn{background:var(--accent);border:2px solid var(--accent);box-shadow:0 5px 18px rgba(0,0,0,.28)}
 .hero-fachada .btn-outline{background:#fff;color:var(--dark);border:2px solid #fff}
 .hero-fachada .btn:hover{transform:translateY(-2px)}
+
+
+/* Fachada aprobada: patio luminoso */
+.hero-patio{
+  min-height:760px;
+  background:
+    linear-gradient(90deg,rgba(20,20,20,.72) 0%,rgba(20,20,20,.52) 46%,rgba(20,20,20,.14) 78%),
+    url("imagenes/fachada-sofi-nach.png") center 23%/cover no-repeat;
+}
+.hero-patio:after{display:none}
+.hero-patio .hero-content{max-width:720px;padding-top:105px;padding-bottom:105px}
+.hero-patio h1{font-size:clamp(42px,6vw,72px);line-height:1.02;max-width:680px;text-shadow:0 2px 14px rgba(0,0,0,.35)}
+.hero-patio p{font-size:21px;max-width:650px;text-shadow:0 2px 10px rgba(0,0,0,.45)}
+.hero-patio .eyebrow{color:#fff}
+@media(max-width:700px){
+ .hero-patio{min-height:700px;background-position:58% center}
+ .hero-patio .hero-content{padding-top:80px;padding-bottom:80px}
+}
