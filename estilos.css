@@ -71,3 +71,12 @@
 .uses-close{font-size:20px;line-height:1.6;text-align:center;max-width:900px;margin:40px auto 0}
 @media(max-width:850px){.uses-grid{grid-template-columns:1fr 1fr}.uses-section h2{font-size:38px}}
 @media(max-width:560px){.uses-grid{grid-template-columns:1fr}.use-card{min-height:auto}}
+
+
+/* Inspiración, fichas y mejoras móviles */
+.spaces-section{padding:78px 0;background:#fff}.spaces-section h2{font-size:46px;margin:8px 0 12px}.spaces-lead{font-size:19px;color:var(--muted);max-width:760px;line-height:1.6;margin-bottom:30px}
+.spaces-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:18px}.space-card{position:relative;min-height:330px;border-radius:18px;overflow:hidden;background:#ddd}.space-card img{width:100%;height:100%;position:absolute;object-fit:cover;transition:.3s}.space-card:hover img{transform:scale(1.035)}.space-card:after{content:"";position:absolute;inset:45% 0 0;background:linear-gradient(transparent,rgba(0,0,0,.72))}.space-card span{position:absolute;z-index:1;left:22px;bottom:20px;color:#fff;font-size:21px;font-weight:900}.spaces-link{display:inline-block;margin-top:24px}
+.product-note{margin:18px 0 0;padding:18px 20px;border-left:4px solid var(--accent);background:#fff;border-radius:0 12px 12px 0}.product-note b,.product-note span{display:block}.product-note span{color:var(--muted);line-height:1.5;margin-top:6px}
+.wa-float{position:fixed;right:22px;bottom:22px;z-index:50;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:#159447;color:#fff;font-size:27px;font-weight:900;box-shadow:0 7px 24px #0005}
+@media(max-width:850px){.spaces-grid{grid-template-columns:1fr 1fr}.space-wide{grid-column:1/-1}.space-card{min-height:280px}.nav{height:72px}.hero-patio{min-height:620px}.hero-patio .hero-content{padding-top:65px;padding-bottom:65px}.catalog-head h1{font-size:38px}.detail{padding-top:25px;gap:24px}.detail h1{font-size:36px}}
+@media(max-width:560px){.wrap{padding:0 16px}.spaces-grid{grid-template-columns:1fr}.space-wide{grid-column:auto}.spaces-section h2{font-size:36px}.space-card{min-height:250px}.hero-patio h1{font-size:40px}.hero-patio p{font-size:18px}.btn{padding:15px 18px}.contact-card{grid-template-columns:50px 1fr auto}.wa-float{right:16px;bottom:16px;width:54px;height:54px}.detail img{border-radius:12px}}
