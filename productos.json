@@ -192,12 +192,12 @@
   {
     "id": "SN-20",
     "color": "Natural",
-    "image": "imagenes/SN-20.jpg",
-    "name": "Caminero",
-    "medidas": "70 × 25 cm",
+    "image": "imagenes/WhatsApp Image 2026-09-19 at 10.05.28.jpeg",
+    "name": "Marco para jardinera",
+    "medidas": "30 × 70 cm",
     "espesor": "4 cm",
-    "terminacion": "Relieve rústico tipo madera con botones/detalles de fijación",
-    "uso": "Veredas, patios, barbacoas y jardines"
+    "terminacion": "Relieve rústico colonial",
+    "uso": "Jardineras y decoración"
   },
   {
     "id": "SN-21",
@@ -207,6 +207,16 @@
     "medidas": "27 × 50 cm",
     "espesor": "2,5 cm",
     "terminacion": "Relieve lineal rústico tipo piedra",
+    "uso": "Veredas, patios, barbacoas y jardines"
+  },
+  {
+    "id": "SN-22",
+    "color": "Natural",
+    "image": "imagenes/SN-20.jpg",
+    "name": "Caminero",
+    "medidas": "70 × 25 cm",
+    "espesor": "4 cm",
+    "terminacion": "Relieve rústico tipo madera con botones/detalles de fijación",
     "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
@@ -277,6 +287,16 @@
     "medidas": "27 × 50 cm",
     "espesor": "2,5 cm",
     "terminacion": "Relieve rústico tipo madera",
+    "uso": "Veredas, patios, barbacoas y jardines"
+  },
+  {
+    "id": "SN-30",
+    "color": "Natural",
+    "image": "imagenes/WhatsApp Image 2026-09-19 at 10.05.28 (1).jpeg",
+    "name": "Trenza con tablón",
+    "medidas": "50 × 50 cm",
+    "espesor": "4 cm",
+    "terminacion": "De encastre",
     "uso": "Veredas, patios, barbacoas y jardines"
   },
   {
